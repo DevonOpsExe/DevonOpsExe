@@ -83,7 +83,8 @@ The projects in this portfolio aren't just tutorials; they are functional implem
 </div>
 
 ## Projects
-- Azure Enterprise Infrastructure Identity &Automation  | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/main">Loading</a>|
-- Part 1 Cloud Infrastructure & Networking              | <a href="https://google.com">Loading</a>|
-- Part 2 Enterprise Identity & Access Management IAM    | <a href="https://google.com">Loading</a>|
-- Part 3 Enterprise Automation & Scripting              | <a href="https://google.com">Loading</a>|
+- Azure Enterprise Infrastructure Identity & Automation Executive Summary      | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/main">azure-enterprise-infrastructure-identity-lab</a>|
+- Part 1 Cloud Infrastructure & Networking              | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/e097467ef0e8173075d494a69b920bbeaea559ea/Part1-Secure-Azure-Networking">Part1-Secure-Azure-Networking</a>|
+- Part 2 Enterprise Identity & Access Management IAM    | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/e097467ef0e8173075d494a69b920bbeaea559ea/Part2-Active-Directory">
+Part2-Active-Directory</a>|
+- Part 3 Enterprise Automation & Scripting              | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/e097467ef0e8173075d494a69b920bbeaea559ea/Part3-Automation-Scripting">Part3-Automation-Scripting</a>|
