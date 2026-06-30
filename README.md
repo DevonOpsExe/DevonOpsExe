@@ -34,10 +34,10 @@ The projects in this portfolio aren't just tutorials; they are functional implem
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Enterprise Identity & Access Management (IAM  | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/e097467ef0e8173075d494a69b920bbeaea559ea/Part1-Secure-Azure-Networking">Loading</a>|
+| Enterprise Identity & Access Management (IAM  | <a href="">Loading</a>|
 | Systems Automation & Efficiency               | <a href="https://google.com">Loading</a>|
-| Cloud & Infrastructure Operations             | <a href="https://google.com">Loading</a>|
-| Core Networking & Domain Architecture         | <a href="https://google.com">Loading</a>|
+| Cloud & Infrastructure Operations             | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/e097467ef0e8173075d494a69b920bbeaea559ea/Part1-Secure-Azure-Networking">Part1-Secure-Azure-Networking</a>|
+| Core Networking & Domain Architecture         | <a href=([Lab3](../Part3-Automation-Scripting))>Part3-Automation-Scripting</a>|
                           
 
 
