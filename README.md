@@ -15,22 +15,22 @@ Equipped with a robust foundational stack (**CompTIA CSIS / CIOS / Security+ / N
 
 The projects in this portfolio aren't just tutorials; they are functional implementations of enterprise-grade systems. Building these labs directly demonstrates the following competencies:
 
-### 1. Enterprise Identity & Access Management (IAM)
+### 1. Cloud & Infrastructure Operations
+* **Cloud Virtualization (Azure):** Experience provisioning Virtual Machines (VMs), configuring cloud firewalls, managing virtual networks, and optimizing cloud resource usage.
+* **Resourceful Engineering:** Demonstrated capability to deploy, manage, and interact with complex enterprise-level cloud topologies using minimalist endpoint hardware.
+
+### 2. Core Networking & Domain Architecture
+* **Domain Infrastructure (`lab.local`):** Deep understanding of internal enterprise environments, including custom local domain routing and network segmentation.
+* **Network Services:** Hands-on experience configuring and troubleshooting the critical pillars of networking: **DNS** (name resolution), **DHCP** (dynamic IP scoping), and private IP addressing schemas.
+
+### 3. Enterprise Identity & Access Management (IAM)
 * **Active Directory (AD DS):** Hand-on experience deploying centralized directory services, managing domain controllers, and structuring **Organizational Units (OUs)** to mirror corporate hierarchies.
 * **Group Policy Objects (GPOs):** Ability to enforce security baselines, manage user privileges, and deploy system configurations automatically across hundreds of network endpoints.
 * **User Lifecycle Management:** Practical knowledge of onboarding, offboarding, role-based access control (RBAC), and maintaining data integrity within a directory.
 
-### 2. Systems Automation & Efficiency
+### 4. Systems Automation & Efficiency
 * **PowerShell Scripting:** Proficient in writing scripts to eliminate repetitive manual overhead—including writing logic to parse CSV data and bulk-provision 200+ enterprise user identities instantly.
 * **Scalability Mindset:** Focused on building reproducible, automated administrative workflows that scale seamlessly from small businesses to large enterprise infrastructures.
-
-### 3. Cloud & Infrastructure Operations
-* **Cloud Virtualization (Azure):** Experience provisioning Virtual Machines (VMs), configuring cloud firewalls, managing virtual networks, and optimizing cloud resource usage.
-* **Resourceful Engineering:** Demonstrated capability to deploy, manage, and interact with complex enterprise-level cloud topologies using minimalist endpoint hardware.
-
-### 4. Core Networking & Domain Architecture
-* **Domain Infrastructure (`lab.local`):** Deep understanding of internal enterprise environments, including custom local domain routing and network segmentation.
-* **Network Services:** Hands-on experience configuring and troubleshooting the critical pillars of networking: **DNS** (name resolution), **DHCP** (dynamic IP scoping), and private IP addressing schemas.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -67,9 +67,9 @@ The projects in this portfolio aren't just tutorials; they are functional implem
 ![Firewalls & IAM](https://img.shields.io/badge/Firewalls_%26_IAM-0066cc?style=for-the-badge)
 
 
-## Certifications
-<div>
 ## 🏅 Certifications & Credentials
+<div>
+
 <div>
 
 <img src="https://img.shields.io/badge/Google-IT_Professional-blue?style=for-the-badge&logo=google&logoColor=white" />
