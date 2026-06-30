@@ -83,7 +83,7 @@ The projects in this portfolio aren't just tutorials; they are functional implem
 </div>
 
 ## Projects
-
+- Azure Enterprise Infrastructure Identity &Automation  | <a href="https://github.com/DevonOpsExe/azure-enterprise-infrastructure-identity-lab/tree/main">Loading</a>|
 - Part 1 Cloud Infrastructure & Networking              | <a href="https://google.com">Loading</a>|
 - Part 2 Enterprise Identity & Access Management IAM    | <a href="https://google.com">Loading</a>|
 - Part 3 Enterprise Automation & Scripting              | <a href="https://google.com">Loading</a>|
