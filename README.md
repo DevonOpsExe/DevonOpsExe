@@ -1,4 +1,4 @@
-# Hello, I'm Devon
+# Hello, I'm Devon Rice
 <a href="https://www.linkedin.com/in/devonmrice"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a driven, hands-on **IT and Cybersecurity Professional** focused on building secure, scalable infrastructure and automating systems. I pair strong foundational knowledge with an intense, immersive approach to technical learning and continuous labbing.
